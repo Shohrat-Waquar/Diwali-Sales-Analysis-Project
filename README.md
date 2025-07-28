@@ -52,4 +52,3 @@ Key insights from the data:
 
 ---
 
-## 📂 Project Structure   
